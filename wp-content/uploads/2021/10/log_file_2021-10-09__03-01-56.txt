@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: M Shop Default were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/client/campussolusi/ecommerce
+Data file = C:\xampp\htdocs\client\campussolusi\ecommerce/wp-content/uploads/2021/10/demo-content-import-file_2021-10-09__03-01-56.xml
+Widget file = C:\xampp\htdocs\client\campussolusi\ecommerce/wp-content/uploads/2021/10/demo-widgets-import-file_2021-10-09__03-01-56.json
+Customizer file = C:\xampp\htdocs\client\campussolusi\ecommerce/wp-content/uploads/2021/10/demo-customizer-import-file_2021-10-09__03-01-56.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Text - Marketplace - Imported
+
+Footer Widget Area 2 : 
+
+Text - More About Store - Imported
+
+Footer Widget Area 3 : 
+
+Text - Key Links - Imported
+
+Footer Widget Area 4 : 
+
+Text - Contact Details - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

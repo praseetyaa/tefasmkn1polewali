@@ -1,0 +1,82 @@
+
+---Downloaded files---
+The import files for: Top Store Default were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/client/campussolusi/ecommerce
+Data file = C:\xampp\htdocs\client\campussolusi\ecommerce/wp-content/uploads/2021/10/demo-content-import-file_2021-10-22__02-12-04.xml
+Widget file = C:\xampp\htdocs\client\campussolusi\ecommerce/wp-content/uploads/2021/10/demo-widgets-import-file_2021-10-22__02-12-04.json
+Customizer file = C:\xampp\htdocs\client\campussolusi\ecommerce/wp-content/uploads/2021/10/demo-customizer-import-file_2021-10-22__02-12-04.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Products list - Popular - Imported
+Tag Cloud - Tag Clouds - Imported
+Image - No Title - Imported
+
+Secondary Sidebar : 
+
+Topstore : Highlight Widget - No Title - Imported
+Top Store : About Us widget - Know Us - Imported
+Top Store : Post Slide Widget - Store Updates - Imported
+Gallery - Product Showcase - Imported
+
+Footer Below Second Widget : 
+
+Image - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Top Store : About Us widget - No Title - Imported
+Text - Connect With Us - Imported
+
+Footer Widget Area 2 : 
+
+Navigation Menu - End Points - Imported
+Text - More About Store - Imported
+
+Footer Widget Area 3 : 
+
+Products list - Products - Imported
+
+Footer Widget Area 4 : 
+
+Custom HTML - Contact Details - Imported
+Text - Offline Stores - Imported
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by Price - Imported
+Filter Products by Attribute - Filter by Color - Imported
+Filter Products by Rating - Average Rating - Imported
+
+ThemeHunk MegaMenu Widgets : 
+
+Image - Home 1 - Imported
+Image - Home 2 - Imported
+Image - Home 3 - Imported
+Image - No Title - Imported
+Image - No Title - Imported
+Image - No Title - Imported
+Pages - No Title - Imported
+Pages - No Title - Imported
+Pages - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
