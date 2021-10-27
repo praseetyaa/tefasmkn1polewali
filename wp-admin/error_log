@@ -1,0 +1,650 @@
+[26-Oct-2021 03:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:44:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:47:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:47:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:48:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:48:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:48:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:48:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:48:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:48:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:51:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:51:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:51:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:52:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:52:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:52:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:52:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:52:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:52:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:53:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:53:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:53:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:55:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:55:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:55:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:55:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:56:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:57:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 03:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 04:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
+[26-Oct-2021 04:00:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php:22
+Stack trace:
+#0 /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php(51): top_store_cart_total_item()
+#1 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_menu_cart_view('')
+#2 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/tefb5177/public_html/wp-content/plugins/hunk-companion/top-store/top-store-admin/top-store-front-page-function.php(232): do_action('top_store_cart_...')
+#5 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 /home/tefb5177/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home/tefb5177/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(A in /home/tefb5177/public_html/wp-content/themes/top-store/inc/woocommerce/woo-function.php on line 22
